@@ -1,2 +1,2 @@
 # EmulationTask
-Emulation of CRUD price list
+Emulation of CRUD price list, in memory implementation
